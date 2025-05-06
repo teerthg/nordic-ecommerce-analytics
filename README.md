@@ -105,3 +105,8 @@ nordic-ecommerce-analytics/
 ## 📜 License
 
 This project is open for educational and non-commercial use only.
+
+Contact Information:
+.Email: teerthgupta19@gmail.com
+.LinkedIn:[https://www.linkedin.com/in/teerth-gupta-52a248243/]
+.Name-Teerth Gupta
